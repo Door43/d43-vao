@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vao:home|Door43 (vao)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vao|d43-vao repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vao/archive/master.zip|d43-vao.zip]]
+
+**Recent Changes**
+{{changes>ns = vao}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vao|Ethnologue data]]
+
